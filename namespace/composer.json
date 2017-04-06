@@ -1,0 +1,12 @@
+{
+    "name": "egoing/namespace",
+    "authors": [
+        {
+            "name": "egoing",
+            "email": "egoing@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.22"
+    }
+}
